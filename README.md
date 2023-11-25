@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m Soumya Swarup<br>- 👀 I’m interested in Cyber Security and Blockchain<br>- 🌱 I’m currently working as a cyber security analyst
+- 👋 Hi, I’m Soumya Swarup<br>- 👀 I’m interested in Cyber Security<br>-
 
 
 # 💻 Tech Stack:

@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m Soumya Swarup<br>- 👀 I’m interested in Cyber Security<br>
+- 👋 Hi, I’m Soumya Swarup<br>- 👀 I’m interested in Cyber Security and Bug Bounty<br>
 
 
 # 💻 Tech Stack:
